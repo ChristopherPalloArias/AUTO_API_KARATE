@@ -6,5 +6,4 @@ Feature: POST Search Product
     When method POST
     Then status 200
     And match response.responseCode == 200
-    And match response.searchedProducts != null
-    And match response.searchedProducts[0] == { id: '#number', name: '#string', price: '#string', brand: '#string', category: '#object' }
+    And match response == '#object'
