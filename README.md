@@ -22,9 +22,6 @@
   <img src="https://img.shields.io/badge/Karate-1.4.1-28A745?style=for-the-badge&logo=testinglibrary&logoColor=white" alt="Karate Framework" />
 </a>
 
-<br />
-<br />
-
 **Application Under Test (REST API)**
 <br />
 <a href="https://www.automationexercise.com/api_list">
